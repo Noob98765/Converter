@@ -10,3 +10,7 @@ In first combo box will be your base currency type and another combobox will be 
 when you all set click "convert" button to convert your currency,it will show in another text box.
 
 
+//This program only support for Euro,USD,Rupee,Ringgit,Dong,Baht
+
+
+
